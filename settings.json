@@ -1,0 +1,15 @@
+{
+    "databaseSettings":
+    {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    },
+    "openWeatherMap":
+    {
+        "appid": "youAppId",
+        "lat": "49.949444",
+        "lon": "18.650000"
+    }
+}
